@@ -1,4 +1,5 @@
 import random
+//Command to import the built in python library random
 
 noofguesses=1
 no=random.randrange(1,100000)
